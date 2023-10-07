@@ -35,11 +35,10 @@ header {
   background-color: #333;
 }
 
-/* h3{
-margin-left: 23px;
-padding: 0px 50px 0px 0px
-} */
-
+h3{
+	color: #949ba4;
+	text-align: center;
+}
 ul, nav {
   list-style-type: none;
   margin: 0;
@@ -88,7 +87,8 @@ li a {
  text-align: center;
  
 }
-h1, h3 {
+h1 {
 	color:white;
 	text-align: center;
 }
+
