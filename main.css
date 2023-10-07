@@ -9,8 +9,11 @@ body {
 footer {
   text-align: center;
   padding: 2.5px;
-  background-color: DarkCyan;
+  background-color: #1e1f22;
   color: white;
+  position: fixed;
+   bottom: 0px;
+   width: 100%;
 }
 
 /* header {
@@ -84,4 +87,8 @@ li a {
 .j {
  text-align: center;
  
+}
+h1 {
+	color:white;
+	text-align: center;
 }
