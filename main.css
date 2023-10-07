@@ -16,14 +16,9 @@ footer {
    width: 100%;
 }
 
-/* header {
-  text-align: center;
-  padding: 3px;
-  background-color: DarkCyan;
-  color: white;
-}
 
-*/ 
+
+ 
 
 a{
   text-decoration:none;  
@@ -100,3 +95,18 @@ h4{
 .b{
 	text-align: center;
 }
+
+
+@media screen and (min-width: 581px) {
+	.d {display: none;}
+}	
+	
+
+@media screen and (max-width: 580px) {
+	.j {display: none;
+	
+	}
+	
+		
+}
+
