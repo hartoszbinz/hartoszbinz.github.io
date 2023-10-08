@@ -105,11 +105,13 @@ h4{
 @media screen and (max-width: 580px) {
 	.j {display: none;
 	}
-	.d {font-size: 14px;
+	.p {font-size: 14px;
 	}
 	
 	a.klik{font-size:14px;}
 	a.active{font-size:14px;}
+	
+	a.d.p, a.klik.p , a.active{padding: 14px 10px;}
 		
 }
 
