@@ -118,3 +118,12 @@ h4{
 	sup{right: 50%;}
 }
 
+aside{
+	width:35%;
+	float:right;
+}
+
+.u{
+	float:left;
+	
+}
