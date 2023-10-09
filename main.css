@@ -99,6 +99,22 @@ h4{
 
 @media screen and (min-width: 581px) {
 	.d {display: none;}
+	
+	.gif{
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+	.gif2{
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
 }	
 	
 
@@ -116,6 +132,25 @@ h4{
 	h1.d{margin:10px 0px 0px 0px;}	
 	
 	sup{right: 50%;}
+	
+	.gif{
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+	
+
+.gif2{
+	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 }
 
 aside{
@@ -127,5 +162,4 @@ aside{
 	float:left;
 	
 }
-
 
