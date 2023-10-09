@@ -68,12 +68,12 @@ li a {
 } */ 
 
 .klik:hover {
-   background-color: #04AA6D; 
+   background-color: #ff0000; 
 }
 
 
 .active {
-  background-color: #04AA6D;
+  background-color: #ff0000;
 }
 
  
@@ -115,17 +115,7 @@ h4{
   width: 25%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
+	.img1, .img2 {display: none;}
 
 
 }	
@@ -171,7 +161,6 @@ h4{
 
 
 
-
 }
 
 aside{
@@ -183,4 +172,10 @@ aside{
 	float:left;
 	
 }
+
+v1{
+	display:flex; 
+	justify-content: center;
+}
+
 
